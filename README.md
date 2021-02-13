@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Meet Kalariya
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, my name is Meet Kalariya
 #### I am a Student interested in Robotics🤖 and Embedded Systems ⚡
 ![I am a Student interested in Robotics🤖 and Embedded Systems ⚡](https://i.imgur.com/prAyhYd.jpeg)
 
