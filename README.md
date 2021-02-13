@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Meet Kalariya
 #### I am a Student interested in Robotics🤖 and Embedded Systems ⚡
-![I am a Student interested in Robotics🤖 and Embedded Systems ⚡](https://i.imgur.com/cfs2wz1.jpg)
+![I am a Student interested in Robotics🤖 and Embedded Systems ⚡](https://imgur.com/e6c9ApG)
 
 I am currently pursuing B.Tech in ICT from Pandit Deendayal Energy University. Passionate about robotics, electronics hardware, and action games 👾
 
